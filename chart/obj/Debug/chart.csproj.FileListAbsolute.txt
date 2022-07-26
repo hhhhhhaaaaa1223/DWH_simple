@@ -1,0 +1,37 @@
+E:\3nd year\hk2\Data Visualization\Project\chart\bin\Debug\chart.exe.config
+E:\3nd year\hk2\Data Visualization\Project\chart\bin\Debug\chart.exe
+E:\3nd year\hk2\Data Visualization\Project\chart\bin\Debug\chart.pdb
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.csproj.AssemblyReference.cache
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.Properties.Resources.resources
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.csproj.GenerateResource.cache
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.exe
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.pdb
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.fMain.resources
+E:\3nd year\hk2\Data Visualization\Project\chart\obj\Debug\chart.fLocation.resources
+C:\Users\18133\Downloads\Telegram Desktop\chart\bin\Debug\chart.exe.config
+C:\Users\18133\Downloads\Telegram Desktop\chart\bin\Debug\chart.exe
+C:\Users\18133\Downloads\Telegram Desktop\chart\bin\Debug\chart.pdb
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.csprojAssemblyReference.cache
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.fMain.resources
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.fLocation.resources
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.exe
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.pdb
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.fCategory.resources
+C:\Users\18133\Downloads\Telegram Desktop\chart\obj\Debug\chart.fEmployee.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\bin\Debug\chart.exe.config
+C:\Users\Admin\Downloads\Telegram Desktop\chart\bin\Debug\chart.exe
+C:\Users\Admin\Downloads\Telegram Desktop\chart\bin\Debug\chart.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.fEmployee.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.fMain.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.fLocation.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.fCategory.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.Properties.Resources.resources
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.exe
+C:\Users\Admin\Downloads\Telegram Desktop\chart\obj\Debug\chart.pdb
